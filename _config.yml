@@ -25,9 +25,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   The more or less maintained blog 
   of the more or less maintained projects 
   of and by JayPi4c.
-domain: jaypi4c.github.io
-baseurl: "/JayPi4c" # the subpath of your site, e.g. /blog
-url: "https://jaypi4c.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: blog.jaypi4c.de
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blog.jaypi4c.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: JayPi4c
 
 # Build settings
