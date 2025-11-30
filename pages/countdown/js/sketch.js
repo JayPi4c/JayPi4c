@@ -11,7 +11,7 @@ window.onorientationchange = () => window.location.reload();
 const upperLineText = "Offen für";
 const lowerLineText = "Jobanfragen";
 
-const targetDate = new Date(2026, 0, 1, 0, 0, 0);
+const targetDate = new Date(2028, 0, 1, 0, 0, 0);
 
 let showCountdown;
 
